@@ -6,7 +6,7 @@ import json
 model = joblib.load('intent_model.pkl')
 
 # Load chatbot responses from JSON file
-with open('C:/Users/IIJet/Chatbot/responses.json', 'r') as f:
+with open('data/responses.json', 'r') as f:
     responses = json.load(f)
 
 #chat loop
