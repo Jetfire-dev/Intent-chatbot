@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score
 import joblib
 
 # load intent data from JSON file
-with open('C:/Users/IIJet/Chatbot/intents.json') as f:
+with open('data/intents.json') as f:
     data = json.load(f)
 
 # Extract utterances and labels
