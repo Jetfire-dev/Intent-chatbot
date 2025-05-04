@@ -1,0 +1,369 @@
+[
+    {
+        "intent": "greeting",
+        "utterances": [
+            "Hi",
+            "Hello there",
+            "Good morning",
+            "Good evening",
+            "Hey",
+            "Hello",
+            "Greetings",
+            "What's up?",
+            "Howdy",
+            "How are you?", 
+            "Hi there",
+            "Hey there",
+            "Hello there",
+            "Good day"
+        ]
+    },
+    {
+        "intent": "help",
+        "utterances": [
+            "I need assistance",
+            "Can you help me?",
+            "I have a question",
+            "Help me out",
+            "Assist me please",
+            "I need help",
+            "What can you do?",
+            "Can you assist me?",
+            "What can you do for me?",
+            "What can you help me with?",
+            "What are your capabilities?",
+            "What services do you offer?",
+            "What can I ask you?"
+        ]
+    },
+    {
+        "intent": "goodbye",
+        "utterances": [
+            "Goodbye",
+            "See you later",
+            "Bye",
+            "Good night",
+            "Take care",
+            "See you soon",
+            "Have a nice day",
+            "Have a good day",
+            "Goodbye for now",
+            "See you around",
+            "See you later",
+            "Catch you later"
+        ]
+    },
+    {
+        "intent": "thanks",
+        "utterances": [
+            "Thank you",
+            "Thanks a lot",
+            "I appreciate it",
+            "You're welcome",
+            "No problem",
+            "My pleasure",
+            "It's my pleasure",
+            "You're very welcome",
+            "You're most welcome",
+            "Thanks for your help",
+            "Thanks for your assistance",
+            "You're a lifesaver"
+        ]
+    },
+    {
+        "intent": "weather",
+        "utterances": [
+            "What's the weather like?",
+            "Tell me the weather",
+            "Is it going to rain?",
+            "How's the weather today?",
+            "Do I need an umbrella?",
+            "I want to know the weather",
+            "I need to know the weather",
+            "What's the forecast?",
+            "I want to check the weather",
+            "Is it sunny today?"
+        ]
+    },
+    {
+        "intent": "news",
+        "utterances": [
+            "What's the news today?",
+            "Tell me the latest news",
+            "Any news updates?",
+            "What's happening in the world?",
+            "Give me the news",
+            "I want to stay up to date",
+            "I need to know the news",
+            "What's trending?",
+            "I want to check the news",
+            "Tell me about current events"
+        ]
+    },
+    {
+        "intent": "joke",
+        "utterances": [
+            "Tell me a joke",
+            "Make me laugh",
+            "I want to hear a joke",
+            "I need a laugh",
+            "I'm in the mood for a joke",
+            "Share a funny story",
+            "I want to hear a joke",
+            "I need a laugh",
+            "Make me chuckle",
+            "Tell me something funny",
+            "Share a funny story"
+        ]
+    },
+    {
+        "intent": "quote",
+        "utterances": [
+            "Give me a quote",
+            "Inspire me with a quote",
+            "I need some motivation",
+            "I want to be inspired",
+            "Share a inspirational quote",
+            "Tell me something motivational",
+            "I want to be motivated",
+            "I need some inspiration",
+            "Give me some wisdom",
+            "Share a motivational quote"
+        ]
+    },
+    {
+        "intent": "fact",
+        "utterances": [
+            "Tell me a fact",
+            "I want to learn something new",
+            "Share an interesting fact",
+            "I need to know something",
+            "I want to learn something",
+            "Give me a fun fact",
+            "I want to know something interesting",
+            "I want to learn something new",
+            "Share an interesting fact",
+            "Tell me something I don't know"
+        ]
+    },
+    {
+        "intent": "time",
+        "utterances": [
+            "What time is it?",
+            "Tell me the current time",
+            "How late is it?",
+            "What's the time?",
+            "I need to know the time",
+            "I want to know the time",
+            "Is it morning or evening?",
+            "Is it day or night?",
+            "What time of day is it?",
+            "What hour is it?"
+        ]
+    },
+    {
+        "intent": "date",
+        "utterances": [
+            "What date is it today?",
+            "Tell me today's date",
+            "Is it the weekend?",
+            "I need to know the date",
+            "I want to know the date",
+            "What day is it?",
+            "What day of the week is it?",
+            "Is it a holiday today?",
+            "What day is today?",
+            "What month is it?",
+            "What year is it?"
+        ]
+    },
+    {
+        "intent": "reminder",
+        "utterances": [
+            "Set a reminder for me",
+            "I need to remember something",
+            "Remind me later",
+            "I want to set a reminder",
+            "I need to set a reminder",
+            "Can you remind me?",
+            "Can you set a reminder for me?",
+            "I want to remember something"
+        ]
+    },
+    {
+        "intent": "calculator",
+        "utterances": [
+            "Open calculator",
+            "I need to calculate something",
+            "Can you do math for me?",
+            "I want to use a calculator",
+            "Calculate this for me",
+            "Help me with math",
+            "I need a calculation",
+            "Can you calculate this?"
+        ]
+    },
+    {
+        "intent": "search",
+        "utterances": [
+            "Search for something online",
+            "Look up information for me",
+            "Find something on the web",
+            "I need to find something",
+            "I want to look something up",
+            "Can you search for me?",
+            "Can you look something up for me?",
+            "I want to search for something",
+            "Find me something online"
+        ]
+    },
+    {
+        "intent": "translate",
+        "utterances": [
+            "Translate this for me",
+            "I need a translation",
+            "Can you help me translate?",
+            "I want to translate something",
+            "Translate this text",
+            "Help me with translation",
+            "I need to translate a word",
+            "Can you translate this for me?",
+            "I want to translate a sentence",
+            "Translate this phrase"
+        ]
+    },
+    {
+        "intent": "music",
+        "utterances": [
+            "Play some music",
+            "I want to listen to music",
+            "Put on a song",
+            "Play my favorite song",
+            "I need some tunes",
+            "I want to listen to some music",
+            "Can you play some music for me?",
+            "I want to play some music",
+            "Listen to some music",
+            "Play some tunes"
+        ]
+    },
+    {
+        "intent": "movie",
+        "utterances": [
+            "Recommend a movie",
+            "What should I watch?",
+            "Suggest a film",
+            "I want to watch a movie",
+            "Find me a good movie",
+            "I need a movie suggestion",
+            "Can you recommend a movie?",
+            "I want to find a movie",
+            "I need a film suggestion",
+            "Suggest a good movie"
+        ]
+    },
+    {
+        "intent": "recipe",
+        "utterances": [
+            "Give me a recipe",
+            "I want to cook something",
+            "Share a cooking idea",
+            "I need a recipe",
+            "I want to make something",
+            "Find me a recipe",
+            "I need a cooking suggestion",
+            "Can you suggest a recipe?",
+            "I want to try a new recipe"
+        ]
+    },
+    {
+        "intent": "shopping",
+        "utterances": [
+            "Help me shop online",
+            "I need to buy something",
+            "Find me a product",
+            "I want to shop",
+            "Look for something to buy",
+            "I need to find something to buy",
+            "I need a shopping suggestion",
+            "Can you help me shop?",
+            "I want to find something to buy"
+        ]
+    },
+    {
+        "intent": "travel",
+        "utterances": [
+            "Plan my trip",
+            "Where should I go?",
+            "Suggest a travel destination",
+            "I want to plan a trip",
+            "Find me a trip idea",
+            "I need a travel suggestion",
+            "Can you suggest a trip?",
+            "I want to travel",
+            "I need a travel plan",
+            "Plan a trip"
+        ]
+    },
+    {
+        "intent": "fitness",
+        "utterances": [
+            "Help me with fitness",
+            "I need a workout plan",
+            "Suggest an exercise routine",            
+            "I want to work out",
+            "Find me a fitness plan",
+            "I need a fitness suggestion",
+            "Can you help me with fitness?",
+            "I want to improve my fitness",
+            "Plan a fitness routine",
+            "I want to get fit",
+            "I need to exercise"
+        ]
+    },
+    {
+        "intent": "health",
+        "utterances": [
+            "Tell me about health tips",
+            "I want to be healthier",
+            "Share some wellness advice",
+            "I need health information",
+            "I want to improve my health",
+            "Find me health tips",
+            "I need wellness advice",
+            "Can you help me with health?",
+            "I want to stay healthy",
+            "I need some wellness tips"
+        ]
+    },
+    {
+        "intent": "finance",
+        "utterances": [
+            "Help me with finance",
+            "I need budgeting advice",
+            "Tell me about investments",
+            "I want to manage my finances",
+            "Find me financial advice",
+            "I need financial advice",
+            "I need to budget",
+            "Can you help me with finances?",
+            "I want to save money",
+            "I need some financial advice"
+        ]
+    },
+    {
+        "intent": "education",
+        "utterances": [
+            "Help me learn something new",
+            "I want to study a topic",
+            "Suggest an online course",
+            "I need to learn something",
+            "I want to improve my knowledge",
+            "Find me educational resources",
+            "I need educational advice",
+            "Can you help me with education?",
+            "I want to learn something new",
+            "I need some educational advice"
+        ]
+    }
+]
